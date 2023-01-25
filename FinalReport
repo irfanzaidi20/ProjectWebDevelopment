@@ -1,0 +1,10 @@
+INTRODUCTION
+Surau management in mahallah seems a little bit unmanaged in terms of tasks division causing lack of use of surau. To further encourage the use of surau in orderly manners, our group decided to develop a system to organize a better management of surau. 
+
+OBJECTIVE
+The main objective of our system is to provide a database to ease the management of surau in mahallah. Next, we love to develop a simple and direct yet effective system that provides no error. Then, the system also manages the arrangement of Bilal and Imam for each prayer, provides the prayer time schedule and also registration page that allow users to apply to be Imam and Bilal.
+
+FEATURES AND FUNCTIONALITIES
+There are three main features and functionalities of our system. Firstly, we will provide a registration page for users who are interested in applying for Bilal and Imam positions for mahallah's surau. Next, based on the registration form filled by users, we will arrange the schedule of Imam and Bilal on duty for every prayer time. Lastly, the system will also provide the schedule of prayer time for users to refer.
+
+ER DIAGRAM
